@@ -1,10 +1,7 @@
-### Hi there 👋
 
 <div align="center">
-<h1 align="center">Hola, soy Mila 👋</h1>
+<h1 align="center">Hi there 👋</h1>
 </div>
-
-
 
 
 ## Sobre mi
