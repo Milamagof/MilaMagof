@@ -3,7 +3,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Mila 👋</h1>
 </div>
-<span>https://github.com/Milamagof/MilaMagof/issues/1#issue-2273472020)</span><span></span>
+
 
 
 
