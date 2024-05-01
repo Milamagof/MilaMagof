@@ -2,23 +2,8 @@
 <div align="center">
 <h1 align="center">Hi 👋</h1>
 
-
-
-
-## :sparkles: &nbsp;About me 
-
-- 👩‍💻  **Junior cybersecurity analyst** 
-- 💻  **Pentesting** 	
-
-<br>
-
-<table>
-<tr>
-
 ## :open_book: Hack The Box Walkthrough
- 
- <h3 align="center"> :lock: pdf:paperclip: </h3>
-                                                                                    
+                                                                             
 </td>
 
 <td width="50%">
