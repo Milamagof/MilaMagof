@@ -3,7 +3,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href=Mila</a> 👋</h1>
 </div>
-<img src="[https://www.freepik.es/vector-premium/fondo-verde-codigo-binario-vector-big-data-pirateria-programacion-descifrado-cifrado-profundos-numeros-transmision-computadora-1-0-concepto-codificacion-o-hacker_19082735.htm]">
+<img src="[file:///C:/Users/34685/Desktop/ASCII-art.jpg]">
 
 
 
