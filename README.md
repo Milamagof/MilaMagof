@@ -6,7 +6,7 @@
 
 
 
-## About me :sparkles:
+## :sparkles: &nbsp;About me :sparkles:
 
 - [x] 👩‍💻  **Junior cybersecurity analyst** 
 - [x] 💻  **Pentesting** 
@@ -25,11 +25,3 @@
 <td width="50%">
                <br>
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/MilaMagof">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MilaMagofa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MilaMagof&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
