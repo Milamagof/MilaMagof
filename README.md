@@ -3,16 +3,15 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href=Mila</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="[https://](https://www.freepik.es/vector-premium/fondo-verde-codigo-binario-vector-big-data-pirateria-programacion-descifrado-cifrado-profundos-numeros-transmision-computadora-1-0-concepto-codificacion-o-hacker_19082735.htm)">
 
 
 
 ## Sobre mi
-
-- ⭐ Github Star ⭐ 
--    Junior cybersecurity analyst
--    Pentesting
--  
+ 
+- 👩‍💻  Junior cybersecurity analyst
+- 💻  Pentesting
+  
 <br>
 
 <table>
