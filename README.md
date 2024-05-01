@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-<h1 align="center">Hola, soy <a href=Mila</a> 👋</h1>
+<h1 align="center">Hola, soy Mila 👋</h1>
 </div>
 <img src="[file:///C:/Users/34685/Desktop/ASCII-art.jpg]">
 
