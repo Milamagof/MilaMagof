@@ -2,7 +2,7 @@
 <div align="center">
 <h1 align="center">Hi 👋</h1>
 
-![](ASCII-art.jpg)
+![](i.jpg)
 
 
 
