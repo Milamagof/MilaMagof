@@ -3,7 +3,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Mila 👋</h1>
 </div>
-<img src="(https://github.com/Milamagof/MilaMagof/issues/1#issue-2273472020)">
+<span>https://github.com/Milamagof/MilaMagof/issues/1#issue-2273472020)</span><span></span>
 
 
 
