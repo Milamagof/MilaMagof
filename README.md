@@ -2,11 +2,10 @@
 <div align="center">
 <h1 align="center">Hi 👋</h1>
 
-![](i.jpg)
 
 
 
-## :sparkles: &nbsp;About me :sparkles:
+## :sparkles: &nbsp;About me 
 
 - [x] 👩‍💻  **Junior cybersecurity analyst** 
 - [x] 💻  **Pentesting** 
@@ -16,7 +15,7 @@
 <table>
 <tr>
 
-## Hack The Box Walkthrough :open_book:
+## :open_book: Hack The Box Walkthrough
  
  <h3 align="center"> pdf</h3>
                                                                                     
