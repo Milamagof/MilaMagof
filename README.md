@@ -1,7 +1,7 @@
 
 <div align="center">
 <h1 align="center">Hi there 👋</h1>
-![]()
+<span>https://github.com/Milamagof/MilaMagof/blob/main/ASCII-art.jpg</span><span>)</span>
 </div>
 
 
