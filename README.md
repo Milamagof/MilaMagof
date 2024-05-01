@@ -1,21 +1,24 @@
 
 <div align="center">
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hi 👋</h1>
 
 ![](ASCII-art.jpg)
 
 
 
-## Sobre mi
- 
-- 👩‍💻  Junior cybersecurity analyst
-- 💻  Pentesting
+## About me :sparkles:
+
+- [x] 👩‍💻  **Junior cybersecurity analyst** 
+- [x] 💻  **Pentesting** 
   
 <br>
 
 <table>
 <tr>
-<h3 align="center">Hack The Box Walkthrough</h3>
+
+## Hack The Box Walkthrough :open_book:
+ 
+ <h3 align="center"> pdf</h3>
                                                                                     
 </td>
 
