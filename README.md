@@ -3,7 +3,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Mila 👋</h1>
 </div>
-<img src="[file:///C:/Users/34685/Desktop/ASCII-art.jpg]">
+<img src="[file:///C:/Users/34685/Desktop/ASCII-art.jpg](https://github.com/Milamagof/MilaMagof/issues/1#issue-2273472020)]">
 
 
 
