@@ -2,6 +2,8 @@
 <div align="center">
 <h1 align="center">Hi there 👋</h1>
 
+![](ASCII-art.jpg)
+
 
 
 ## Sobre mi
