@@ -7,9 +7,9 @@
 
 ## :sparkles: &nbsp;About me 
 
-- [x] 👩‍💻  **Junior cybersecurity analyst** 
-- [x] 💻  **Pentesting** 
-  
+- 👩‍💻  **Junior cybersecurity analyst** 
+- 💻  **Pentesting** 	
+
 <br>
 
 <table>
@@ -17,7 +17,7 @@
 
 ## :open_book: Hack The Box Walkthrough
  
- <h3 align="center"> pdf</h3>
+ <h3 align="center"> :lock: pdf:paperclip: </h3>
                                                                                     
 </td>
 
