@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋</h1>
 
 ## :open_book: Hack The Box Walkthrough
+
+[Iclean Writeup HTB.pdf](https://github.com/Milamagof/Iclean-HTB-walkthrough/blob/e4004530de083371eca9f731badb73a8395ec52b/Iclean%20Writeup%20HTB.pdf)
                                                                              
 </td>
 
