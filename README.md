@@ -15,7 +15,7 @@
 ## 	:hammer_and_wrench: Script Python
 
 
-[Script to search text files](https://github.com/Milamagof/Script-to-search-text-files.git)
+<div align="center"> [Script to search text files](https://github.com/Milamagof/Script-to-search-text-files.git) </h1>
 ![](https://github.com/Milamagof/Script-to-search-text-files/blob/06ef31b2d3091596ce85f09443da003ecf6aa466/search-image.png)
 
                                                                              
