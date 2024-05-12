@@ -15,7 +15,6 @@
 ## 	:hammer_and_wrench: Script Python
 ![](https://github.com/Milamagof/Script-to-search-text-files/blob/06ef31b2d3091596ce85f09443da003ecf6aa466/search-image.png)
 
-Insertar enlaces
 [Script to search text files](https://github.com/Milamagof/Script-to-search-text-files.git)
                                                                              
 </td>
