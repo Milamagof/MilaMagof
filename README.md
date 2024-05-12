@@ -6,7 +6,7 @@
 
 [Iclean Writeup HTB.pdf](https://github.com/Milamagof/Iclean-HTB-walkthrough/blob/e4004530de083371eca9f731badb73a8395ec52b/Iclean%20Writeup%20HTB.pdf)
 
-![]()                                                                           
+![](https://github.com/Milamagof/Iclean-HTB-walkthrough/blob/e4c6d667dfbe44e6fcdca69bd8e377e3267e0260/iclean.png)                                                                           
 
 </td>
 
