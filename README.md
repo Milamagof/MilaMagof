@@ -12,6 +12,18 @@
                <br>
 
 
+## 	:hammer_and_wrench: Script Python
+
+[Script to search text files]()
+                                                                             
+</td>
+
+<td width="50%">
+               <br>
+
+
+
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
