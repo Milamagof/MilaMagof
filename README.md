@@ -6,11 +6,13 @@
 
 [Iclean Writeup HTB.pdf](https://github.com/Milamagof/Iclean-HTB-walkthrough/blob/e4004530de083371eca9f731badb73a8395ec52b/Iclean%20Writeup%20HTB.pdf)
 
-![](https://github.com/Milamagof/Iclean-HTB-walkthrough/blob/e4c6d667dfbe44e6fcdca69bd8e377e3267e0260/iclean.png)     
+![](https://github.com/Milamagof/Iclean-HTB-walkthrough/blob/41b576f70ba8164210e76ba890b0617b7f11c821/iclean1.png)
 
 
-[Runner Writeup HTB.pdf]
-                                                                      
+[Runner Writeup HTB.pdf](https://github.com/Milamagof/runner.htb/blob/c70a6c92f065d7575b4fd1085b13bd96adffc119/Runner%20Writeup%20HTB.pdf)
+
+![](https://github.com/Milamagof/runner.htb/blob/4d556f47c0a2b13f40fdec90ad3a2b14cfc0bd84/runner.png)
+                                                                       
 
 </td>
 
