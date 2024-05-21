@@ -53,8 +53,8 @@
       <img src="https://github.com/Milamagof/Iclean-HTB-walkthrough/blob/41b576f70ba8164210e76ba890b0617b7f11c821/iclean1.png" alt="Iclean" width="200">
     </td>
     <td>
-      <h2>Runner Writeup HTB.pdf</h2>
-      <a href="https://github.com/Milamagof/runner.htb/blob/c70a6c92f065d7575b4fd1085b13bd96adffc119/Runner%20Writeup%20HTB.pdf">Download PDF</a>
+      <h2>Runner HTB</h2>
+      <a href="https://github.com/Milamagof/runner.htb/blob/4d556f47c0a2b13f40fdec90ad3a2b14cfc0bd84/Runner%20Writeup%20HTB.pdf">Runner Writeup</a>
       <br>
       <img src="https://github.com/Milamagof/runner.htb/blob/4d556f47c0a2b13f40fdec90ad3a2b14cfc0bd84/runner.png" alt="Runner" width="200">
     </td>
