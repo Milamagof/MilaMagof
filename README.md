@@ -59,8 +59,8 @@
       <img src="https://github.com/Milamagof/runner.htb/blob/4d556f47c0a2b13f40fdec90ad3a2b14cfc0bd84/runner.png" alt="Runner" width="200">
     </td>
     <td>
-      <h2>Third Writeup HTB.pdf</h2>
-      <a href="URL_OF_THIRD_PDF">Download PDF</a>
+      <h2>Usage HTB</h2>
+      <a href="URL_OF_THIRD_PDF">Usage Writeup</a>
       <br>
       <img src="URL_OF_THIRD_IMAGE" alt="Third" width="200">
     </td>
