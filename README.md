@@ -48,7 +48,7 @@
   <tr>
     <td class="align-left">
       <h2>Iclean Writeup HTB.pdf</h2>
-      <a href="https://github.com/Milamagof/Iclean-HTB-walkthrough/blob/e4004530de083371eca9f731badb73a8395ec52b/Iclean%20Writeup%20HTB.pdf">Download PDF</a>
+      <a href="https://github.com/Milamagof/Iclean-HTB-walkthrough/blob/41b576f70ba8164210e76ba890b0617b7f11c821/Iclean%20Writeup%20HTB.pdf"></a>
       <br>
       <img src="https://github.com/Milamagof/Iclean-HTB-walkthrough/blob/41b576f70ba8164210e76ba890b0617b7f11c821/iclean1.png" alt="Iclean" width="200">
     </td>
