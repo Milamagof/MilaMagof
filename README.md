@@ -60,45 +60,16 @@
     </td>
     <td>
       <h2>Usage HTB</h2>
-      <a href="URL_OF_THIRD_PDF">Usage Writeup</a>
+      <a href="https://github.com/Milamagof/Usage-HTB-Writeup/blob/ed3cc0fd71f79934a124e8afcd0d0eef3cf4e83b/Usage%20Writeup.pdf">Usage Writeup</a>
       <br>
-      <img src="URL_OF_THIRD_IMAGE" alt="Third" width="200">
+      <img src="https://github.com/Milamagof/Usage-HTB-Writeup/blob/ed3cc0fd71f79934a124e8afcd0d0eef3cf4e83b/usage.png" alt="Usage" width="200">
     </td>
-    <td class="align-right">
-      <h2>Fourth Writeup HTB.pdf</h2>
-      <a href="URL_OF_FOURTH_PDF">Download PDF</a>
-      <br>
-      <img src="URL_OF_FOURTH_IMAGE" alt="Fourth" width="200">
-    </td>
+    
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td class="align-left">
-      <h2>Fifth Writeup HTB.pdf</h2>
-      <a href="URL_OF_FIFTH_PDF">Download PDF</a>
-      <br>
-      <img src="URL_OF_FIFTH_IMAGE" alt="Fifth" width="200">
-    </td>
-    <td>
-      <h2>Sixth Writeup HTB.pdf</h2>
-      <a href="URL_OF_SIXTH_PDF">Download PDF</a>
-      <br>
-      <img src="URL_OF_SIXTH_IMAGE" alt="Sixth" width="200">
-    </td>
-    <td>
-      <h2>Seventh Writeup HTB.pdf</h2>
-      <a href="URL_OF_SEVENTH_PDF">Download PDF</a>
-      <br>
-      <img src="URL_OF_SEVENTH_IMAGE" alt="Seventh" width="200">
-    </td>
-    <td class="align-right">
-      <h2>Eighth Writeup HTB.pdf</h2>
-      <a href="URL_OF_EIGHTH_PDF">Download PDF</a>
-      <br>
-      <img src="URL_OF_EIGHTH_IMAGE" alt="Eighth" width="200">
-    </td>
+
+  
   </tr>
 </table>
 
@@ -107,44 +78,25 @@
   <table>
     <tr>
       <td>
-        <h3>Python Script</h3>
-        <a href="https://github.com/Milamagof/Script-to-search-text-files.git">Script to search text files</a>
+        <h3> Script to search text files</h3>
+        <a href="https://github.com/Milamagof/Script-to-search-text-files.git">Python Script</a>
         <br>
-        <img src="URL_TO_YOUR_IMAGE" alt="Python Script" width="200">
+        <img src=" " alt="" width="200">
       </td>
       <td>
-        <h3>Project 2</h3>
-        <a href="URL_TO_PROJECT_2">Project 2 Description</a>
+        <h3>Detect suspicious login </h3>
+        <a href="https://github.com/Milamagof/algoritmo-detectar-inicio-sesion-sospechoso/blob/18654956f244d7ffd11b4ecababa60690e4fe9bd/Algoritmo%20detectar%20inicio%20sesion%20sospechoso.py">Python Script</a>
         <br>
-        <img src="URL_TO_IMAGE_2" alt="Project 2" width="200">
+        <img src=" " alt="" width="200">
       </td>
       <td>
-        <h3>Project 3</h3>
-        <a href="URL_TO_PROJECT_3">Project 3 Description</a>
+        <h3>Permission to access a file </h3>
+        <a href="https://github.com/Milamagof/Permiso-para-acceder-a-un-archivo/blob/10dda9a30dd1bb3881417adaff47df4bc8d85e62/Permiso%20para%20acceder%20a%20un%20archivo.py">Python Script </a>
         <br>
-        <img src="URL_TO_IMAGE_3" alt="Project 3" width="200">
+        <img src=" " alt="" width="200">
       </td>
     </tr>
     <tr>
-      <td>
-        <h3>Project 4</h3>
-        <a href="URL_TO_PROJECT_4">Project 4 Description</a>
-        <br>
-        <img src="URL_TO_IMAGE_4" alt="Project 4" width="200">
-      </td>
-      <td>
-        <h3>Project 5</h3>
-        <a href="URL_TO_PROJECT_5">Project 5 Description</a>
-        <br>
-        <img src="URL_TO_IMAGE_5" alt="Project 5" width="200">
-      </td>
-      <td>
-        <h3>Project 6</h3>
-        <a href="URL_TO_PROJECT_6">Project 6 Description</a>
-        <br>
-        <img src="URL_TO_IMAGE_6" alt="Project 6" width="200">
-      </td>
-    </tr>
   </table>
 </div>
 
