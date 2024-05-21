@@ -103,10 +103,49 @@
 </table>
 
 <div align="center">
-<h2>:hammer_and_wrench: Projects</h2>
-<div align="center">
-  <h3>Python Script</h3>
-  <a href="https://github.com/Milamagof/Script-to-search-text-files.git">Script to search text files</a>
+  <h2>:hammer_and_wrench: Projects</h2>
+  <table>
+    <tr>
+      <td>
+        <h3>Python Script</h3>
+        <a href="https://github.com/Milamagof/Script-to-search-text-files.git">Script to search text files</a>
+        <br>
+        <img src="URL_TO_YOUR_IMAGE" alt="Python Script" width="200">
+      </td>
+      <td>
+        <h3>Project 2</h3>
+        <a href="URL_TO_PROJECT_2">Project 2 Description</a>
+        <br>
+        <img src="URL_TO_IMAGE_2" alt="Project 2" width="200">
+      </td>
+      <td>
+        <h3>Project 3</h3>
+        <a href="URL_TO_PROJECT_3">Project 3 Description</a>
+        <br>
+        <img src="URL_TO_IMAGE_3" alt="Project 3" width="200">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h3>Project 4</h3>
+        <a href="URL_TO_PROJECT_4">Project 4 Description</a>
+        <br>
+        <img src="URL_TO_IMAGE_4" alt="Project 4" width="200">
+      </td>
+      <td>
+        <h3>Project 5</h3>
+        <a href="URL_TO_PROJECT_5">Project 5 Description</a>
+        <br>
+        <img src="URL_TO_IMAGE_5" alt="Project 5" width="200">
+      </td>
+      <td>
+        <h3>Project 6</h3>
+        <a href="URL_TO_PROJECT_6">Project 6 Description</a>
+        <br>
+        <img src="URL_TO_IMAGE_6" alt="Project 6" width="200">
+      </td>
+    </tr>
+  </table>
 </div>
 
 <h2>⚙️ GitHub Analytics</h2>
