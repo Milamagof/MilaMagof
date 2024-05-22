@@ -42,7 +42,8 @@
 
 
  <h1 align="center">:open_book: Hack The Box Walkthrough</h1>
-<p><strong>HackTheBox (HTB) is a platform for cybersecurity enthusiasts to improve their skills through real-world challenges and scenarios in controlled environments. Here I leave you machines that I am solving with the steps to penetrate its defenses and take control.</strong></p>
+<p><strong> HackTheBox (HTB)</strong> is a platform for cybersecurity enthusiasts to improve their skills through real-world challenges and scenarios in controlled environments. 
+<strong>Here I leave you walkthroughs of the machines that I am solving, taking control.</strong></p>
 
 <table>
   <tr>
