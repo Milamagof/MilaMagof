@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Mila. 👋</h1>
+<h1 align="center">Hi 👋</h1>
 
 <div align="center">
   <p>:female_detective: I like to use a variety of useful <strong>computer software</strong></p>
