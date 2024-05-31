@@ -81,8 +81,8 @@
   <table>
     <tr>
       <td>
-        <h3> Script to search text files</h3>
-        <a href="https://github.com/Milamagof/Script-to-search-text-files.git">Python Script</a>
+        <h3> Password generator</h3>
+        <a href="https://github.com/Milamagof/generador-contrasenas/blob/b151645965eee4388ae234f30bbdf9f13c74ad35/Generador%20de%20contrase%C3%B1as.py">Python Script</a>
         <br>
         <img src=" " alt="" width="200">
       </td>
