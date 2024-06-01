@@ -67,7 +67,13 @@
       <br>
       <img src="https://github.com/Milamagof/Usage-HTB-Writeup/blob/ed3cc0fd71f79934a124e8afcd0d0eef3cf4e83b/usage.png" alt="Usage" width="200">
     </td>
-    
+    <td class="align-right">
+      <h2>Boardlight HTB </h2>
+      <a href="https://github.com/Milamagof/boardlight-walkthrough/blob/0bedc550f27476f078c01b758b65c3b5b5958970/Boardlight%20Writeup%20HTB.pdf">Boardlight Writeup</a>
+      <br>
+      <img src="https://github.com/Milamagof/boardlight-walkthrough/blob/a6675205864c5c8b795e2d6fa102534e24bb8ed6/1_jS0emRR7ea70neXfwWA_9Q.png" alt="Fourth" width="200">
+    </td>
+
   </tr>
 </table>
 
