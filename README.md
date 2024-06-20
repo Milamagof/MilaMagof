@@ -73,14 +73,20 @@
       <br>
       <img src="https://github.com/Milamagof/boardlight-walkthrough/blob/a6675205864c5c8b795e2d6fa102534e24bb8ed6/1_jS0emRR7ea70neXfwWA_9Q.png" alt="Fourth" width="200">
     </td>
-
-  </tr>
-</table>
-
-
+        </tr>
+    <tr>
+      <td>
+        <h3>Blurry HTB</h3>
+        <a href="https://github.com/Milamagof/Blurry-writeup-HTB.git">Blurry Writeup</a>
+        <br>
+        <img src="https://github.com/Milamagof/Blurry-writeup-HTB/blob/4f20720948fcb96bc7776928d1f26bd07590a996/1_xBmQl2Q9KTV7MEK6Gm2ZaQ.png" alt="Blurry" width="200">
+      </td>
+      <td>
+   
   
   </tr>
 </table>
+
 
 <div align="center">
   <h2>:hammer_and_wrench: Projects</h2>
