@@ -69,7 +69,7 @@
     </td>
     <td class="align-right">
       <h2>Boardlight HTB </h2>
-      <a href="https://github.com/Milamagof/boardlight-walkthrough/blob/0bedc550f27476f078c01b758b65c3b5b5958970/Boardlight%20Writeup%20HTB.pdf">Boardlight Writeup</a>
+      <a href="https://github.com/Milamagof/boardlight-walkthrough/blob/5a45502f2fea42834426da0d5e049b3f89f08f35/README.md">Boardlight Writeup</a>
       <br>
       <img src="https://github.com/Milamagof/boardlight-walkthrough/blob/a6675205864c5c8b795e2d6fa102534e24bb8ed6/1_jS0emRR7ea70neXfwWA_9Q.png" alt="Fourth" width="200">
     </td>
