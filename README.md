@@ -76,7 +76,7 @@
         </tr>
     <tr>
       <td>
-        <h3>Blurry HTB</h3>
+        <h3>Blurry </h3>
         <a href="https://github.com/Milamagof/Blurry-writeup-HTB.git">Blurry Writeup</a>
         <br>
         <img src="https://github.com/Milamagof/Blurry-writeup-HTB/blob/4f20720948fcb96bc7776928d1f26bd07590a996/1_xBmQl2Q9KTV7MEK6Gm2ZaQ.png" alt="Blurry" width="200">
