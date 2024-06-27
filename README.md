@@ -53,7 +53,7 @@
       <h2>Iclean HTB</h2>
       <a href="https://github.com/Milamagof/Iclean-HTB-walkthrough/blob/dbb393241fcd73c9cbb0e25c02e90eed421c8f16/Iclean%20Writeup%20HTB.pdf"> Iclean Writeup</a>
       <br>
-      <img src="https://github.com/Milamagof/Iclean-HTB-walkthrough/blob/41b576f70ba8164210e76ba890b0617b7f11c821/iclean1.png" alt="Iclean" width="200">
+      <img src="https://github.com/Milamagof/Iclean-HTB-walkthrough/blob/16363568b4c31876355bcb61239af6c53e2281c8/i.jpg" alt="Iclean" width="200">
     </td>
     <td>
       <h2>Runner HTB</h2>
