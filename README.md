@@ -51,7 +51,7 @@
   <tr>
     <td class="align-left">
       <h2>Iclean HTB</h2>
-      <a href="https://github.com/Milamagof/Iclean-HTB-walkthrough/blob/41b576f70ba8164210e76ba890b0617b7f11c821/Iclean%20Writeup%20HTB.pdf"> Iclean Writeup</a>
+      <a href="https://github.com/Milamagof/Iclean-HTB-walkthrough/blob/dbb393241fcd73c9cbb0e25c02e90eed421c8f16/Iclean%20Writeup%20HTB.pdf"> Iclean Writeup</a>
       <br>
       <img src="https://github.com/Milamagof/Iclean-HTB-walkthrough/blob/41b576f70ba8164210e76ba890b0617b7f11c821/iclean1.png" alt="Iclean" width="200">
     </td>
