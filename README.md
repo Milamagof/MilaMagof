@@ -82,7 +82,12 @@
         <img src="https://github.com/Milamagof/Blurry-writeup-HTB/blob/4f20720948fcb96bc7776928d1f26bd07590a996/1_xBmQl2Q9KTV7MEK6Gm2ZaQ.png" alt="Blurry" width="200">
       </td>
       <td>
-   
+      <h2>PermX HTB</h2>
+      <a href="https://github.com/Milamagof/PermX-HTB-writeup.git">PermX Writeup</a>
+      <br>
+      <img src="https://github.com/Milamagof/PermX-HTB-writeup/blob/55f78e8c96330afac44a36cac2037a9cd517605f/permx1.png" alt="PermX" width="200">
+    </td>
+    <td>
   
   </tr>
 </table>
