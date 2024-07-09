@@ -87,47 +87,6 @@
     </td>
   </tr>
   <tr>
-    <td>
-      <h2>Título 1</h2>
-      <a href="#">Enlace 1</a>
-      <br>
-      <img src="https://via.placeholder.com/150" alt="Imagen 1" width="100" height="auto">
-    </td>
-    <td>
-      <h2>Título 2</h2>
-      <a href="#">Enlace 2</a>
-      <br>
-      <img src="https://via.placeholder.com/150" alt="Imagen 2" width="100" height="auto">
-    </td>
-    <td>
-      <h2>Título 3</h2>
-      <a href="#">Enlace 3</a>
-      <br>
-      <img src="https://via.placeholder.com/150" alt="Imagen 3" width="100" height="auto">
-    </td>
-    <td>
-      <h2>Título 4</h2>
-      <a href="#">Enlace 4</a>
-      <br>
-      <img src="https://via.placeholder.com/150" alt="Imagen 4" width="100" height="auto">
-    </td>
-    <td>
-      <h2>Título 5</h2>
-      <a href="#">Enlace 5</a>
-      <br>
-      <img src="https://via.placeholder.com/150" alt="Imagen 5" width="100" height="auto">
-    </td>
-    <td>
-      <h2>Título 6</h2>
-      <a href="#">Enlace 6</a>
-      <br>
-      <img src="https://via.placeholder.com/150" alt="Imagen 6" width="100" height="auto">
-    </td>
-  </tr>
-</table>
-
-</body>
-</html>
 
 
 <div align="center">
