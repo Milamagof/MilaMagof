@@ -49,48 +49,85 @@
 
 <table>
   <tr>
-    <td class="align-left">
-      <h2>Iclean HTB</h2>
-      <a href="https://github.com/Milamagof/Iclean-HTB-walkthrough/blob/dbb393241fcd73c9cbb0e25c02e90eed421c8f16/Iclean%20Writeup%20HTB.pdf"> Iclean Writeup</a>
+    <td>
+      <h2>PermX HTB</h2>
+      <a href="https://github.com/Milamagof/PermX-HTB-writeup.git">PermX Writeup</a>
       <br>
-      <img src="https://github.com/Milamagof/Iclean-HTB-walkthrough/blob/16363568b4c31876355bcb61239af6c53e2281c8/i.jpg" alt="Iclean" width="200">
+      <img src="https://github.com/Milamagof/PermX-HTB-writeup/blob/55f78e8c96330afac44a36cac2037a9cd517605f/permx1.png" alt="PermX" width="100" height="auto">
     </td>
     <td>
-      <h2>Runner HTB</h2>
-      <a href="https://github.com/Milamagof/runner.htb/blob/4d556f47c0a2b13f40fdec90ad3a2b14cfc0bd84/Runner%20Writeup%20HTB.pdf">Runner Writeup</a>
+      <h2>Blurry HTB</h2>
+      <a href="https://github.com/Milamagof/Blurry-writeup-HTB.git">Blurry Writeup</a>
       <br>
-      <img src="https://github.com/Milamagof/runner.htb/blob/4d556f47c0a2b13f40fdec90ad3a2b14cfc0bd84/runner.png" alt="Runner" width="200">
+      <img src="https://github.com/Milamagof/Blurry-writeup-HTB/blob/4f20720948fcb96bc7776928d1f26bd07590a996/1_xBmQl2Q9KTV7MEK6Gm2ZaQ.png" alt="Blurry" width="100" height="auto">
+    </td>
+    <td>
+      <h2>Boardlight HTB</h2>
+      <a href="https://github.com/Milamagof/boardlight-walkthrough/blob/5a45502f2fea42834426da0d5e049b3f89f08f35/README.md">Boardlight Writeup</a>
+      <br>
+      <img src="https://github.com/Milamagof/boardlight-walkthrough/blob/a6675205864c5c8b795e2d6fa102534e24bb8ed6/1_jS0emRR7ea70neXfwWA_9Q.png" alt="Boardlight" width="100" height="auto">
     </td>
     <td>
       <h2>Usage HTB</h2>
       <a href="https://github.com/Milamagof/Usage-HTB-Writeup/blob/ed3cc0fd71f79934a124e8afcd0d0eef3cf4e83b/Usage%20Writeup.pdf">Usage Writeup</a>
       <br>
-      <img src="https://github.com/Milamagof/Usage-HTB-Writeup/blob/ed3cc0fd71f79934a124e8afcd0d0eef3cf4e83b/usage.png" alt="Usage" width="200">
-    </td>
-    <td class="align-right">
-      <h2>Boardlight HTB </h2>
-      <a href="https://github.com/Milamagof/boardlight-walkthrough/blob/5a45502f2fea42834426da0d5e049b3f89f08f35/README.md">Boardlight Writeup</a>
-      <br>
-      <img src="https://github.com/Milamagof/boardlight-walkthrough/blob/a6675205864c5c8b795e2d6fa102534e24bb8ed6/1_jS0emRR7ea70neXfwWA_9Q.png" alt="Fourth" width="200">
-    </td>
-        </tr>
-    <tr>
-      <td>
-        <h3>Blurry HTB</h3>
-        <a href="https://github.com/Milamagof/Blurry-writeup-HTB.git">Blurry Writeup</a>
-        <br>
-        <img src="https://github.com/Milamagof/Blurry-writeup-HTB/blob/4f20720948fcb96bc7776928d1f26bd07590a996/1_xBmQl2Q9KTV7MEK6Gm2ZaQ.png" alt="Blurry" width="200">
-      </td>
-      <td>
-      <h2>PermX HTB</h2>
-      <a href="https://github.com/Milamagof/PermX-HTB-writeup.git">PermX Writeup</a>
-      <br>
-      <img src="https://github.com/Milamagof/PermX-HTB-writeup/blob/55f78e8c96330afac44a36cac2037a9cd517605f/permx1.png" alt="PermX" width="200">
+      <img src="https://github.com/Milamagof/Usage-HTB-Writeup/blob/ed3cc0fd71f79934a124e8afcd0d0eef3cf4e83b/usage.png" alt="Usage" width="100" height="auto">
     </td>
     <td>
-  
+      <h2>Runner HTB</h2>
+      <a href="https://github.com/Milamagof/runner.htb/blob/4d556f47c0a2b13f40fdec90ad3a2b14cfc0bd84/Runner%20Writeup%20HTB.pdf">Runner Writeup</a>
+      <br>
+      <img src="https://github.com/Milamagof/runner.htb/blob/4d556f47c0a2b13f40fdec90ad3a2b14cfc0bd84/runner.png" alt="Runner" width="100" height="auto">
+    </td>
+    <td>
+      <h2>Iclean HTB</h2>
+      <a href="https://github.com/Milamagof/Iclean-HTB-walkthrough/blob/dbb393241fcd73c9cbb0e25c02e90eed421c8f16/Iclean%20Writeup%20HTB.pdf"> Iclean Writeup</a>
+      <br>
+      <img src="https://github.com/Milamagof/Iclean-HTB-walkthrough/blob/16363568b4c31876355bcb61239af6c53e2281c8/i.jpg" alt="Iclean" width="100" height="auto">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h2>Título 1</h2>
+      <a href="#">Enlace 1</a>
+      <br>
+      <img src="https://via.placeholder.com/150" alt="Imagen 1" width="100" height="auto">
+    </td>
+    <td>
+      <h2>Título 2</h2>
+      <a href="#">Enlace 2</a>
+      <br>
+      <img src="https://via.placeholder.com/150" alt="Imagen 2" width="100" height="auto">
+    </td>
+    <td>
+      <h2>Título 3</h2>
+      <a href="#">Enlace 3</a>
+      <br>
+      <img src="https://via.placeholder.com/150" alt="Imagen 3" width="100" height="auto">
+    </td>
+    <td>
+      <h2>Título 4</h2>
+      <a href="#">Enlace 4</a>
+      <br>
+      <img src="https://via.placeholder.com/150" alt="Imagen 4" width="100" height="auto">
+    </td>
+    <td>
+      <h2>Título 5</h2>
+      <a href="#">Enlace 5</a>
+      <br>
+      <img src="https://via.placeholder.com/150" alt="Imagen 5" width="100" height="auto">
+    </td>
+    <td>
+      <h2>Título 6</h2>
+      <a href="#">Enlace 6</a>
+      <br>
+      <img src="https://via.placeholder.com/150" alt="Imagen 6" width="100" height="auto">
+    </td>
   </tr>
 </table>
+
+</body>
+</html>
 
 
 <div align="center">
