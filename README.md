@@ -1,11 +1,7 @@
 
 <h1 align="center">Hi👋</h1>
 
-<div align="center">
-  <p>:female_detective: I like to use a variety of useful <strong>computer software</strong></p>
-  <p>:woman_astronaut:I am expanding <strong> my programming languages</strong></p>
-  <p>:woman_technologist:I am a <strong>video editor and painter</strong></p>
-  <p>:woman_artist:  I also like <strong>art, film and photo</strong></p>
+
  
   
 </div>
