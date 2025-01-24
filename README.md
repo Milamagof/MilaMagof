@@ -31,10 +31,9 @@
   </div>
 </div>
 
-
- <h1 align="center">:open_book: Hack The Box Walkthrough</h1>
-<p><strong> HackTheBox (HTB)</strong> is a platform for cybersecurity enthusiasts to improve their skills through real-world challenges and scenarios in controlled environments. 
-<strong>Here I leave you walkthroughs of the machines that I am solving, taking control.</strong></p>
+<h1 align="center">:open_book: Hack The Box Walkthrough</h1>
+<p><strong> HackTheBox (HTB)</strong> es una plataforma para entusiastas de la ciberseguridad que quieren mejorar sus habilidades mediante retos y escenarios del mundo real en entornos controlados. 
+<strong>Aquí te dejo los walkthroughs de las máquinas que voy resolviendo, tomando control.</strong></p>
 
 <table>
   <tr>
@@ -75,8 +74,7 @@
       <img src="https://github.com/Milamagof/Iclean-HTB-walkthrough/blob/16363568b4c31876355bcb61239af6c53e2281c8/i.jpg" alt="Iclean" width="100" height="auto">
     </td>
   </tr>
-  <tr>
-
+</table>
 
 <div align="center">
   <h2>:hammer_and_wrench: Projects</h2>
@@ -101,9 +99,9 @@
         <img src=" " alt="" width="200">
       </td>
     </tr>
-    <tr>
   </table>
 </div>
+
 
 <h2>⚙️ GitHub Analytics</h2>
 <p align="center">
@@ -115,4 +113,3 @@
 
 </body>
 </html>
-
