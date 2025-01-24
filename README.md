@@ -92,12 +92,6 @@
         <br>
         <img src=" " alt="" width="200">
       </td>
-      <td>
-        <h3>Permission to access a file </h3>
-        <a href="https://github.com/Milamagof/Permiso-para-acceder-a-un-archivo/blob/10dda9a30dd1bb3881417adaff47df4bc8d85e62/Permiso%20para%20acceder%20a%20un%20archivo.py">Python Script </a>
-        <br>
-        <img src=" " alt="" width="200">
-      </td>
     </tr>
   </table>
 </div>
