@@ -33,7 +33,7 @@
 
 <h1 align="center">:open_book: Hack The Box Walkthrough</h1>
 <p><strong> HackTheBox (HTB)</strong> es una plataforma para entusiastas de la ciberseguridad que quieren mejorar sus habilidades mediante retos y escenarios del mundo real en entornos controlados. 
-<strong>Aquí te dejo los walkthroughs de las máquinas que voy resolviendo, tomando control.</strong></p>
+<strong>Aquí dejo los walkthroughs de las máquinas que voy resolviendo.</strong></p>
 
 <table>
   <tr>
